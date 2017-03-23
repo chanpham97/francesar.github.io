@@ -2,6 +2,19 @@ h1 {
 	color: blue;
 }
 
+.funny {
+  color: green;
+}
+
+.small {
+  font-size: 10px;
+}
+
+#subtitle {
+  color: red;
+}
+
 p {
 	font-size: 124px;
+  font-weight: 800;
 }
